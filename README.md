@@ -5,10 +5,10 @@
 
 
 On the pathway of becoming a Web and App Developer [Full-Stack], planning on growing within IT circles in
-Logan, UT as a future Software Engineer with both Back-end and Front-End capabilities.
+Logan, UT as a future Software Engineer with both Back-end and Front-End capabilities.<br />
 Sensible, reliable, efficient, and requiring little oversight when it comes to training or tenure. Capable of combining
 both creative thinking and critical thinking to conjure practical methods for online use. Described as a "necessary
-and powerful force in any workplace" in both the past and the present.
+and powerful force in any workplace" in both the past and the present.<br />
 This journey into web development started with once being a freelance writer (self-help, spirituality, contemporary
 romance) and a more recent project exposing one to cyber-security literature (having written a 40,000-word primer
 for a NIST Cyber-Security Frameworks book series), staying consistent with the straightforward nature of previous
