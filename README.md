@@ -19,7 +19,7 @@ work in call centres and phone agencies with business orientations (customer ser
 - 📫 How to reach me ...
 - Phone: 435-999-0410
 - direct email: mgsetler@gmail.com
-- linkedin: https://www.linkedin.com/in/maria-espino-61907841/
+- linkedin: https://www.linkedin.com/in/mgsetler/
 
 <!---
 mgsetler/mgsetler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
